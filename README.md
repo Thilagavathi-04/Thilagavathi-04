@@ -22,9 +22,7 @@
   </a>
   <a href="https://github.com/thilagavathi-04">
     <img src="https://img.shields.io/badge/GitHub-Follow-2196f3?style=for-the-badge&logo=github&logoColor=white&color=000000">
-  </a>
-    <img src="https://img.shields.io/badge/Phone-%2B91%2093425%2091173-1e88e5?style=for-the-badge&logo=whatsapp&logoColor=white&color=000000">
-  </a>
+ 
 </div>
 
 <div align="center" style="margin: 30px 0;">
