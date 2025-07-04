@@ -39,7 +39,7 @@ I'm an aspiring AI & ML Engineer with a passion for creating intelligent solutio
 
 <div style="text-align: center; margin: 30px 0;">
   <ul style="list-style: none; padding: 0; display: inline-block; text-align: left;">
-    <li style="margin: 10px 0;">🔭 Currently working on developing my Django and ML skills</li>
+    <li style="margin: 10px 0;">🔭 Currently working on developing ML skills</li>
     <li style="margin: 10px 0;">🌱 Learning about neural networks and deep learning</li>
     <li style="margin: 10px 0;">👯 Looking to collaborate on AI/ML projects</li>
     <li style="margin: 10px 0;">💬 Ask me about Python, AI concepts, or web development</li>
@@ -64,7 +64,7 @@ I'm an aspiring AI & ML Engineer with a passion for creating intelligent solutio
   <div style="margin: 20px 0;">
     <h4>Technologies:</h4>
     <ul style="list-style: none; padding-left: 20px;">
-      <li style="margin: 5px 0;"><strong>Frontend</strong>: HTML5, CSS3, Bootstrap 5, JavaScript (ES6+)</li>
+      <li style="margin: 5px 0;"><strong>Frontend</strong>: HTML5, CSS3, Bootstrap 5, JavaScript</li>
       <li style="margin: 5px 0;"><strong>Backend</strong>: Django (planned)</li>
       <li style="margin: 5px 0;"><strong>Database</strong>: MySQL</li>
       <li style="margin: 5px 0;"><strong>Tools</strong>: Git, VS Code, Figma</li>
@@ -93,18 +93,19 @@ I'm an aspiring AI & ML Engineer with a passion for creating intelligent solutio
 </div>
 
 <div style="margin: 40px 0;">
-  <h3>🖼️ Neural Image Chatbot</h3>
+  <h3>🖼️ X-Ray Report Generater</h3>
   <div align="center" style="margin: 15px 0;">
     <img src="https://img.shields.io/badge/Status-Research%20Phase-2196f3?style=for-the-badge">
   </div>
 
   <p style="font-size: 16px; line-height: 1.6; margin: 20px 0;">
-    An innovative chatbot that combines computer vision and natural language processing to interpret images and respond with contextually relevant information.
+    An system used to analyze X-rays and generate automated diagonized report
   </p>
 
   <div style="margin: 20px 0;">
     <h4>Technologies:</h4>
     <ul style="list-style: none; padding-left: 20px;">
+      <li style="margin: 5px 0;"><strong>Backend</strong>:Vision Language Model</li>
       <li style="margin: 5px 0;"><strong>ML Framework</strong>: TensorFlow, PyTorch</li>
       <li style="margin: 5px 0;"><strong>Vision</strong>: OpenCV, CNN architectures</li>
       <li style="margin: 5px 0;"><strong>NLP</strong>: BERT, Transformer models</li>
@@ -146,8 +147,7 @@ I'm an aspiring AI & ML Engineer with a passion for creating intelligent solutio
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
   <div style="background-color: #000000; color: white; padding: 20px; border-radius: 8px; width: 260px; text-align: center; border-left: 4px solid #2196f3;">
-    <h3 style="color: #2196f3; margin-top: 0;">Hackathon Finalist</h3>
-    <p>College Tech Fest 2023</p>
+    <h3 style="color: #2196f3; margin-top: 0;"></h3>
   </div>
   
   <div style="background-color: #000000; color: white; padding: 20px; border-radius: 8px; width: 260px; text-align: center; border-left: 4px solid #2196f3;">
