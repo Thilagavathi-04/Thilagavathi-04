@@ -14,7 +14,7 @@
 <h1 align="center" style="margin-bottom: 30px;">✨ Thilagavathi U</h1>
 
 <div align="center" style="margin: 30px 0;">
-  <a href="mailto:uthilagavathi01@gmail.com">
+  <a href="mailto:uthilagavathi01@gmail.com"> 
     <img src="https://img.shields.io/badge/Email-uthilagavathi01%40gmail.com-2196f3?style=for-the-badge&logo=gmail&logoColor=white&color=000000">
   </a>
   <a href="https://www.linkedin.com/in/your-profile">
