@@ -17,7 +17,7 @@
   <a href="mailto:uthilagavathi01@gmail.com"> 
     <img src="https://img.shields.io/badge/Email-uthilagavathi01%40gmail.com-2196f3?style=for-the-badge&logo=gmail&logoColor=white&color=000000">
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/thilagavathi-uthirasamy-755168297">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-1e88e5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000">
   </a>
   <a href="https://github.com/thilagavathi-04">
@@ -42,8 +42,6 @@ I'm an aspiring AI & ML Engineer with a passion for creating intelligent solutio
     <li style="margin: 10px 0;">🔭 Currently working on developing ML skills</li>
     <li style="margin: 10px 0;">🌱 Learning about neural networks and deep learning</li>
     <li style="margin: 10px 0;">👯 Looking to collaborate on AI/ML projects</li>
-    <li style="margin: 10px 0;">💬 Ask me about Python, AI concepts, or web development</li>
-    <li style="margin: 10px 0;">⚡ Fun fact: I'm also an enthusiastic musician!</li>
   </ul>
 </div>
 
