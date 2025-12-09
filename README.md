@@ -1,129 +1,110 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm <span style="color:#2196f3;">Thilagavathi U</span> 👋</h1>
-<h3 align="center">Machine Learning Engineer | AI & Deep Learning Enthusiast</h3>
+# 🌟 Hi, I'm **Thilagavathi U**  
+# 🚀 Machine Learning Engineer
+
+### Deep Learning | LLMs | AI Applications  
+
+📍 Salem, Tamil Nadu, India  
 
 ---
 
-## 🚀 About Me  
-I am an aspiring **Machine Learning Engineer** passionate about building impactful AI solutions.  
-I specialize in **Deep Learning, NLP, ML pipelines, and AI-powered applications**.
-
-🎓 B.Tech in Artificial Intelligence & Machine Learning (2023–2027)  
-📌 Based in **Salem, Tamil Nadu, India**
+## 🔥 About Me
+I am an aspiring **Machine Learning Engineer** passionate about building real-world AI systems.  
+I specialize in **Deep Learning, LLMs, ML pipelines, FastAPI**, and deploying AI models end-to-end.
 
 ---
 
-## 🔧 Tech Stack
+## 🧠 Skills
 
-### 💻 Programming  
-- Python (Data Structures, NumPy, Pandas, OOP)  
+### **Programming**
+- Python (NumPy, Pandas, OOP, Data Structures)  
 - C Programming  
 - JavaScript (Frontend Logic, API Calls)
 
-### 🤖 Machine Learning  
-- Linear/Logistic Regression, Random Forest  
-- K-Means, HDBSCAN, PCA  
+### **Machine Learning**
+- Regression, Random Forest  
+- K-Means, HDBSCAN  
+- PCA, Feature Engineering
 
-### 🧠 Deep Learning  
-- CNN, Transfer Learning, ResNet  
-- Image Classification  
+### **Deep Learning**
+- CNN, ResNet  
+- Transfer Learning  
+- PyTorch, TensorFlow
 
-### 🗣 NLP  
-- Tokenization, Text Preprocessing, Embeddings  
+### **NLP**
+- Text Preprocessing, Tokenization  
+- Embeddings, Vector Search  
+- RAG, LLM Prompting
 
-### 🌐 Web Development  
-- HTML5, CSS3, React (Basic), FastAPI, REST APIs  
-
-### 🗄 Databases  
-- MongoDB  
-- SQL Basics  
-
----
-
-## 🏆 Featured Projects  
-
-### 🧠 **Brain Tumor Detection & AI Assistant**  
-- Built a **ResNet-50 inference pipeline** for tumor detection  
-- Developed a realtime **FastAPI backend**  
-- Integrated an **LLM-based medical assistant**  
-**Tech Stack:** Python, Deep Learning, FastAPI  
+### **Web Development**
+- FastAPI, REST APIs  
+- HTML, CSS, React  
+- MongoDB, SQL Basics
 
 ---
 
-### 🌱 **FARM Assist – eDNA Species Classification**  
-- ML platform for species prediction using eDNA  
-- Built with **FastAPI, React Native, MongoDB, Gemini & RAG**  
-**Tech Stack:** Python, FastAPI, React Native, Gemini  
+## 🚀 Projects
+
+### 🧠 **Brain Tumor Detection & AI Assistant**
+- Built **ResNet-50 inference pipeline**  
+- FastAPI real-time model deployment  
+- LLM-powered medical assistant  
 
 ---
 
-### 🌊 **Edna Species Classifier (Marine Research)**  
-- Implemented **HDBSCAN clustering** & **FAISS similarity search**  
-**Tech Stack:** Python, PyTorch, Transformers, FastAPI  
+### 🌱 **FARM Assist – eDNA Species Classification**
+- ML-based species identification  
+- RAG + Gemini LLM integration  
+- FastAPI + React Native backend/frontend  
 
 ---
 
-### ♿ **Tamil Braille Conversion System**  
-- Converts Tamil text → Braille for visually impaired  
-- Web UI using **HTML, CSS, JavaScript**  
-- Python backend for Unicode mapping  
+### 🌊 **Edna Species Classifier**
+- HDBSCAN clustering  
+- FAISS vector similarity search  
 
 ---
 
-## 🎓 Education  
-- **B.Tech – AI & ML (2023-2027)**  
-  Sri Shakthi Institute of Engineering and Technology  
-  CGPA: **8.6**
-
-- **Higher Secondary – 88.5%**  
-  Vellalar Matriculation Higher Secondary School  
+### ♿ **Tamil Braille Conversion System**
+- Web interface (HTML, CSS, JS)  
+- Python backend for Tamil → Braille  
 
 ---
 
-## 📜 Publications  
-- **Brain Tumor Detection and AI Assistant**, IJRPR, May 2024  
-- **X-Ray Report Generator Using BLIP**, IJARESM, March 2025  
+## 📄 Publications
+- **Brain Tumor Detection & AI Assistant** — IJRPR 2024  
+- **X-Ray Report Generator Using BLIP** — IJARESM 2025  
 
 ---
 
-## 🏅 Achievements  
-- Participant – **CICADA 25 National Hackathon**  
-- Team Participant – **Smart India Hackathon (SIH 2025)**  
-- Volunteer – Tech Wizzy Innovation Showcase  
+## 🏆 Achievements
+- CICADA 25 National Hackathon – Participant  
+- Smart India Hackathon 2025 – Team Participant  
+- Tech Wizzy Innovation Showcase – Volunteer  
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 **GitHub Stats & Streaks**
 
-## 🔥 GitHub Streaks  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thilagavathi-04&theme=dark&background=000000&ring=2196f3&fire=1e88e5&currStreakLabel=2196f3&sideLabels=ffffff" />
-</p>
+<div align="center">
 
----
+### 🔥 **Github Streak Stats**
+<img src="https://streak-stats.demolab.com?user=Thilagavathi-04&theme=radical&hide_border=false" alt="GitHub Streak" />
 
-## 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilagavathi-04&theme=react-dark&hide_border=true&area=true&area_color=2196f3&line=1e88e5&point=ffffff" />
-</p>
+### 📈 **GitHub Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thilagavathi-04&theme=react-dark&hide_border=true" />
 
----
+### 📊 **GitHub Profile Summary**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thilagavathi-04&theme=radical" />
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thilagavathi-04&show_icons=true&theme=dark&title_color=2196f3&icon_color=1e88e5&text_color=ffffff&bg_color=000000" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilagavathi-04&layout=compact&theme=dark&title_color=2196f3&text_color=ffffff&bg_color=000000" height="160">
-</p>
+### 📊 **Top Languages**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilagavathi-04&layout=compact&theme=radical" />
+
+</div>
 
 ---
 
-## 🔗 Connect With Me  
-<p align="center">
-  <a href="https://github.com/Thilagavathi-04"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://leetcode.com/u/Thilagavathi-04"><img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/thilagavathi-uthirasamy-755168297"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-</p>
+## 🔗 Connect With Me
+- **GitHub:** https://github.com/Thilagavathi-04  
+- **LinkedIn:** https://linkedin.com/in/thilagavathi-uthirasamy-755168297  
 
 ---
-
-### ⭐ *Thanks for visiting my profile! Feel free to explore my projects and connect.*  
