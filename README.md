@@ -2,7 +2,7 @@
 ## 🚀 Machine Learning Engineer 
 
 
-### | Deep Learning | LLMs | AI Applications  
+### Deep Learning | LLMs | AI Applications  
 
 📍 Salem, Tamil Nadu, India  
 📧 thilagavathiuthirasamy@gmail.com 
@@ -110,4 +110,3 @@ Sri Shakthi Institute of Engineering and Technology
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to check out my projects and connect with me.*  
