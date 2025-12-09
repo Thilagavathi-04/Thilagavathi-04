@@ -1,18 +1,15 @@
 # 🌟 Hi, I'm **Thilagavathi U**  
 ## 🚀 Machine Learning Engineer 
 
-
 ### Deep Learning | LLMs | AI Applications  
 
 📍 Salem, Tamil Nadu, India  
-📧 thilagavathiuthirasamy@gmail.com 
 
 ---
 
 ## 🔥 About Me
-I am an aspiring **Machine Learning Engineer** pursuing B.Tech in AI & ML.  
-I love building **real-world AI solutions**, from ML models to full-stack deployments using FastAPI, React, and LLMs.  
-My work spans across **deep learning, NLP, embeddings, clustering, and AI automation**.
+I am an aspiring **Machine Learning Engineer** passionate about building real-world AI systems.  
+I specialize in **Deep Learning, LLMs, ML pipelines, FastAPI**, and deploying AI models end-to-end.
 
 ---
 
@@ -24,89 +21,90 @@ My work spans across **deep learning, NLP, embeddings, clustering, and AI automa
 - JavaScript (Frontend Logic, API Calls)
 
 ### **Machine Learning**
-- Regression, Decision Trees, Random Forest  
+- Regression, Random Forest  
 - K-Means, HDBSCAN  
-- PCA, Feature Engineering  
+- PCA, Feature Engineering
 
 ### **Deep Learning**
-- CNN, ResNet, Image Classification  
+- CNN, ResNet  
 - Transfer Learning  
-- PyTorch, TensorFlow  
+- PyTorch, TensorFlow
 
 ### **NLP**
-- Tokenization, Text Preprocessing  
+- Text Preprocessing, Tokenization  
 - Embeddings, Vector Search  
-- LLM Prompting & RAG  
+- RAG, LLM Prompting
 
 ### **Web Development**
 - FastAPI, REST APIs  
-- HTML5, CSS3, React  
-- MongoDB, SQL Basics  
+- HTML, CSS, React  
+- MongoDB, SQL Basics
 
 ---
 
 ## 🚀 Projects
 
 ### 🧠 **Brain Tumor Detection & AI Assistant**
-- Built a **ResNet-50 inference pipeline**  
-- Developed **FastAPI-based real-time backend**  
-- Integrated an **LLM-powered medical assistant**  
-- **Tech Stack:** Python, PyTorch, FastAPI  
+- Built **ResNet-50 inference pipeline**  
+- FastAPI real-time model deployment  
+- LLM-powered medical assistant  
 
 ---
 
 ### 🌱 **FARM Assist – eDNA Species Classification**
-- ML-based species identification system  
-- Integrated **Gemini + RAG pipeline**  
-- **Tech Stack:** Python, FastAPI, React Native, MongoDB  
+- ML-based species identification  
+- RAG + Gemini LLM integration  
+- FastAPI + React Native backend/frontend  
 
 ---
 
-### 🌊 **Edna Species Classifier for Marine Research**
-- Implemented **HDBSCAN** clustering  
-- Added **FAISS similarity search**  
-- **Tech Stack:** FastAPI, PyTorch, Transformers  
+### 🌊 **Edna Species Classifier**
+- HDBSCAN clustering  
+- FAISS vector similarity search  
 
 ---
 
 ### ♿ **Tamil Braille Conversion System**
-- Developed web interface using **HTML, CSS, JS**  
-- Built backend to convert Tamil → Braille  
-- Added Unicode text preprocessing for accuracy  
-
----
-
-## 🎓 Education
-**B.Tech – Artificial Intelligence & Machine Learning (2023–2027)**  
-Sri Shakthi Institute of Engineering and Technology  
-**CGPA:** 8.6  
+- Web interface (HTML, CSS, JS)  
+- Python backend for Tamil → Braille  
 
 ---
 
 ## 📄 Publications
-- **Brain Tumor Detection & AI Assistant** — IJRPR, Vol 6, Issue 5, 2024  
-- **X-Ray Report Generator Using BLIP** — IJARESM, Vol 13, Issue 3, 2025  
+- **Brain Tumor Detection & AI Assistant** — IJRPR 2024  
+- **X-Ray Report Generator Using BLIP** — IJARESM 2025  
 
 ---
 
 ## 🏆 Achievements
-- Participant — **CICADA 25 National Hackathon**  
-- Team Participant — **Smart India Hackathon 2025**  
-- Volunteer — Tech Wizzy Innovation Showcase  
+- CICADA 25 National Hackathon – Participant  
+- Smart India Hackathon 2025 – Team Participant  
+- Tech Wizzy Innovation Showcase – Volunteer  
+
+---
+
+## 📊 **GitHub Stats & Streaks**
+
+<div align="center">
+
+### 🔥 **Github Streak Stats**
+<img src="https://streak-stats.demolab.com?user=Thilagavathi-04&theme=radical&hide_border=false" alt="GitHub Streak" />
+
+### 📈 **GitHub Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thilagavathi-04&theme=react-dark&hide_border=true" />
+
+### 📊 **GitHub Profile Summary**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thilagavathi-04&theme=radical" />
+
+### 📊 **Top Languages**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilagavathi-04&layout=compact&theme=radical" />
+
+</div>
 
 ---
 
 ## 🔗 Connect With Me
 - **GitHub:** https://github.com/Thilagavathi-04  
 - **LinkedIn:** https://linkedin.com/in/thilagavathi-uthirasamy-755168297  
-- **LeetCode:** https://leetcode.com/u/Thilagavathi-04  
 
 ---
-
-## ⚡ Currently Working On
-- Building scalable AI applications  
-- Improving ML deployment with FastAPI  
-- Experimenting with LLMs, embeddings & RAG  
-
----
-
