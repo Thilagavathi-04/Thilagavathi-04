@@ -1,8 +1,11 @@
 # 🌟 Hi, I'm **Thilagavathi U**  
-### 🚀 Machine Learning Engineer | Deep Learning | LLMs | AI Applications  
+## 🚀 Machine Learning Engineer 
+
+
+### | Deep Learning | LLMs | AI Applications  
 
 📍 Salem, Tamil Nadu, India  
-📧 thilagavathiuthirasamy@gmail.com *(add if needed)*  
+📧 thilagavathiuthirasamy@gmail.com 
 
 ---
 
