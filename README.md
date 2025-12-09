@@ -83,23 +83,17 @@ I specialize in **Deep Learning, LLMs, ML pipelines, FastAPI**, and deploying AI
 
 ---
 
-## 📊 **GitHub Stats & Streaks**
+## 🔥 GitHub Streak Stats (Simple Counter)
 
-<div align="center">
+![Current Streak](https://custom-icon-badges.demolab.com/badge/Current%20Streak-🔥-red?style=for-the-badge)
+![Longest Streak](https://custom-icon-badges.demolab.com/badge/Longest%20Streak-🔥-orange?style=for-the-badge)
+![Total Contributions](https://custom-icon-badges.demolab.com/badge/Contributions-📅-blue?style=for-the-badge)
 
-### 🔥 **Github Streak Stats**
-<img src="https://streak-stats.demolab.com?user=Thilagavathi-04&theme=radical&hide_border=false" alt="GitHub Streak" />
+<!-- Auto streak numbers -->
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Thilagavathi-04&theme=transparent&date_format=j%20M%5B%20Y%5D&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&hide_border=true" width="450"/>
+</p>
 
-### 📈 **GitHub Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thilagavathi-04&theme=react-dark&hide_border=true" />
-
-### 📊 **GitHub Profile Summary**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thilagavathi-04&theme=radical" />
-
-### 📊 **Top Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilagavathi-04&layout=compact&theme=radical" />
-
-</div>
 
 ---
 
