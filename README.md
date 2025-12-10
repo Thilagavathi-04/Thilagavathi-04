@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm **Thilagavathi U**  
+# Hi, I'm **Thilagavathi U**  
 # 🚀 Machine Learning Engineer
 
 ### Deep Learning | LLMs | AI Applications  
