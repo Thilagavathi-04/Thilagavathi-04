@@ -96,9 +96,6 @@ I specialize in **Deep Learning, LLMs, ML pipelines, FastAPI**, and deploying AI
 ### 📊 **GitHub Profile Summary**
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thilagavathi-04&theme=radical" />
 
-### 📊 **Top Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilagavathi-04&layout=compact&theme=radical" />
-
 </div>
 
 ---
