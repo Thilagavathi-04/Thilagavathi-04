@@ -98,10 +98,3 @@ I specialize in **Deep Learning, LLMs, ML pipelines, FastAPI**, and deploying AI
 
 </div>
 
----
-
-## 🔗 Connect With Me
-- **GitHub:** https://github.com/Thilagavathi-04  
-- **LinkedIn:** https://linkedin.com/in/thilagavathi-uthirasamy-755168297  
-
----
