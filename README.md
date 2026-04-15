@@ -4,7 +4,6 @@
 ### Deep Learning | LLMs | AI Applications  
 
 📍 Salem, Tamil Nadu, India  
-
 ---
 
 ## 🔥 About Me
