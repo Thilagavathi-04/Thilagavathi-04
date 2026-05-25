@@ -24,7 +24,6 @@
 ## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ---
@@ -142,5 +141,5 @@
 # 📫 Connect With Me
 
 * 🔗 GitHub: [https://github.com/Thilagavathi-04](https://github.com/Thilagavathi-04)
-* 💼 LinkedIn: Add your LinkedIn profile here
-* 📧 Email: Add your professional email here
+* 💼 LinkedIn: [https://www.linkedin.com/in/thilagavathi-uthirasamy/](https://www.linkedin.com/in/thilagavathi-uthirasamy/)
+
