@@ -20,24 +20,12 @@ I specialize in **Deep Learning, LLMs, ML pipelines, FastAPI**, and deploying AI
 - JavaScript (Frontend Logic, API Calls)
 
 ### **Machine Learning**
-- Regression, Random Forest  
-- K-Means, HDBSCAN  
-- PCA, Feature Engineering
 
 ### **Deep Learning**
-- CNN, ResNet  
-- Transfer Learning  
-- PyTorch, TensorFlow
 
 ### **NLP**
-- Text Preprocessing, Tokenization  
-- Embeddings, Vector Search  
-- RAG, LLM Prompting
 
-### **Web Development**
-- FastAPI, REST APIs  
-- HTML, CSS, React  
-- MongoDB, SQL Basics
+### **Generative AI**
 
 ---
 
@@ -76,9 +64,7 @@ I specialize in **Deep Learning, LLMs, ML pipelines, FastAPI**, and deploying AI
 ---
 
 ## 🏆 Achievements
-- CICADA 25 National Hackathon – Participant  
-- Smart India Hackathon 2025 – Team Participant  
-- Tech Wizzy Innovation Showcase – Volunteer  
+- CICADA 25 National Hackathon – Participant   
 
 ---
 
