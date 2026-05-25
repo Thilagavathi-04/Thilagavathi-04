@@ -1,5 +1,5 @@
 # Hi, I'm **Thilagavathi U**  
-# 🚀 Machine Learning Engineer
+# 🚀 AI Engineer
 
 ### Deep Learning | LLMs | AI Applications  
 
@@ -7,7 +7,7 @@
 ---
 
 ## 🔥 About Me
-I am an aspiring **Machine Learning Engineer** passionate about building real-world AI systems.  
+I am an aspiring **AI Engineer** passionate about building real-world AI systems.  
 I specialize in **Deep Learning, LLMs, ML pipelines, FastAPI**, and deploying AI models end-to-end.
 
 ---
