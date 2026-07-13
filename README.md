@@ -7,7 +7,6 @@
 </p>
 
 📍 Salem, Tamil Nadu, India
-
 ---
 
 # 🔥 About Me
