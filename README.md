@@ -1,5 +1,3 @@
-<!-- 🎀 ✿ Coquette & Kawaii GitHub Profile — Deluxe Edition ✿ 🎀 -->
-
 <div align="center">
 
 <!-- ✦ Sparkle top strip ✦ -->
@@ -38,8 +36,6 @@
 
 <div align="center">
 
-</div>
-
 <table>
   <tr>
     <td width="180" align="center">
@@ -52,8 +48,7 @@
     <td>
       <p>
         🌸 &nbsp; hi, i'm a <b>soft-hearted dev</b> who loves pastel aesthetics & clean code<br>
-        💜 &nbsp; currently exploring <b>web dev & open source</b><br>
-        🧸 &nbsp; learning something new every day, one commit at a time<br>
+        💜 &nbsp; currently exploring <b>AI Engineering</b><br>
         🎀 &nbsp; believer in <b>beautiful code</b> that feels like home<br>
         🌙 &nbsp; fueled by matcha lattes & good playlists<br>
         🦋 &nbsp; she/her &nbsp;|&nbsp; ☁️ dreamer &nbsp;|&nbsp; 🍰 dessert enthusiast<br><br>
@@ -64,8 +59,6 @@
   </tr>
 </table>
 
-<div align="center">
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Sparkles.png?raw=true" width="30"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
@@ -308,7 +301,7 @@
 <!-- ✦ Publications ✦ -->
 <!-- ═══════════════════════════════════════ -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fredericka+the+Great&weight=600&size=30&duration=3000&pause=1000&color=6dd5fa&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=60&lines=%F0%9F%93%84+Publications" alt="Publications" />
 
@@ -335,7 +328,7 @@
 </table>
 
 <table width="100%">
-<tr><td>
+<tr><td> 
 
 <div align="center">
 
@@ -348,13 +341,13 @@
 </td></tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> -->
 
 <!-- ═══════════════════════════════════════ -->
 <!-- ✦ Achievements ✦ -->
 <!-- ═══════════════════════════════════════ -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fredericka+the+Great&weight=600&size=30&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=60&lines=%F0%9F%8F%86+Achievements" alt="Achievements" />
 
@@ -391,7 +384,7 @@
 
 🐍 &nbsp;<b>Python Rush Hour</b><br/>
 🤖 &nbsp;<b>Generative AI Workshop</b><br/>
-🧩 &nbsp;<b>Gen AI Hackathon Support Sessions</b>
+🧩 &nbsp;<b>Gen AI Hackathon Support Sessions</b> 
 
 </td></tr></table>
 
@@ -403,7 +396,7 @@
 <div align="center">
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> -->
 
 <!-- ═══════════════════════════════════════ -->
 <!-- ✦ GitHub Stats ✦ -->
@@ -415,8 +408,8 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thilagavathi-04&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-<img src="https://streak-stats.demolab.com?user=Thilagavathi-04&theme=radical&hide_border=true" height="165" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Thilagavathi-04&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" /> -->
+<img src="https://streak-stats.demolab.com?user=Thilagavathi-04&theme=radical&hide_border=true" height="165" /> 
 
 </div>
 
@@ -429,9 +422,9 @@
 </div>
 
 <!-- ✦ Trophy showcase — new ✦ -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Thilagavathi-04&theme=radical&no-frame=true&row=1&column=6" />
-</div>
+</div> -->
 
 <!-- ✦ Contribution snake — new animated element ✦ -->
 <div align="center">
