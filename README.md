@@ -2,19 +2,23 @@
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,docker,mysql,git,github,vscode,linux,js,html,css&theme=dark&perline=13" width="100%"/>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Thilagavathi+U;AI+Engineer+%F0%9F%A4%96;LLM+%2B+Generative+AI+Builder+%E2%9C%A8" alt="Typing SVG"/>
+
 <br/>
 
-# Hi 👋, I'm Thilagavathi U
+### 🌸 A passionate AI Engineer building real-world LLM & Generative AI systems 🌸
 
-### A passionate AI Engineer building real-world LLM & Generative AI systems
-
-<img src="https://komarev.com/ghpvc/?username=Thilagavathi-04&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Thilagavathi-04&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="profile views"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/ArtiomLK/ArtiomLK/main/assets/gifs/hacking-cat.gif" width="120"/>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="130"/>
 
 <br/><br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%"/>
 
 </div>
 
