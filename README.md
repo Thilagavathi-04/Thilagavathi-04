@@ -47,7 +47,7 @@
     </td>
     <td>
       <p>
-        🌸 &nbsp; hi, i'm a <b>soft-hearted dev</b> who loves pastel aesthetics & clean code<br>
+        🌸 &nbsp; Hi, i'm a <b>soft-hearted dev</b> who loves pastel aesthetics & clean code<br>
         💜 &nbsp; currently exploring <b>AI Engineering</b><br>
         🎀 &nbsp; believer in <b>beautiful code</b> that feels like home<br>
         🌙 &nbsp; fueled by matcha lattes & good playlists<br>
